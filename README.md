@@ -15,5 +15,5 @@ This repository contains a conversational retrieval system implemented using the
   # Environment
 
 - Python 3.6 or later
-- Flask (> pip install Flask)
+- Flask ('pip install Flask')
 - LangChain (Install LangChain dependencies as needed)
