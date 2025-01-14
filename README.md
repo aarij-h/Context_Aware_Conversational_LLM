@@ -17,3 +17,17 @@ This repository contains a conversational retrieval system implemented using the
 - Python 3.6 or later
 - Flask (`pip install Flask`)
 - LangChain (Install LangChain dependencies as needed)
+
+# Setup
+
+```
+pip install -r requirements.txt
+
+```
+```
+pip install -r requirements.txt
+```
+
+```
+pip install -r requirements.txt
+```
