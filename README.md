@@ -4,15 +4,15 @@ This repository contains a conversational retrieval system implemented using the
 
 # Approach
 
-- Language Model (LLM): The system uses GooglePalm as the language model, providing powerful language understanding capabilities.
+- **Language Model (LLM):** The system uses GooglePalm as the language model, providing powerful language understanding capabilities.
 
-- Vector Store: Qdrant is employed as the vector store for efficient storage and retrieval of document vectors.
+- **Vector Store:** Qdrant is employed as the vector store for efficient storage and retrieval of document vectors.
 
-- Memory Mechanism: The ConversationBufferMemory stores and retrieves conversation history, enabling the system to maintain context during interactions.
+- **Memory Mechanism:** The ConversationBufferMemory stores and retrieves conversation history, enabling the system to maintain context during interactions.
 
-- Web API with Flask: The implementation includes a Flask web application that exposes an API endpoint (/ask) for users to submit queries and receive contextual responses.
+- **Web API with Flask:** The implementation includes a Flask web application that exposes an API endpoint (/ask) for users to submit queries and receive contextual responses.
 
-  # Environment
+# Environment
 
 - Python 3.6 or later
 - Flask (`pip install Flask`)
