@@ -33,3 +33,30 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 The application will run on ```http://localhost:5000```
+
+# Testing The LLM
+
+```
+Query:
+----------------
+Enter your query: give me product description about garlic oil
+
+System Response:
+-----------------
+Response: This Product contains Garlic Oil that is known to help proper digestion, maintain proper cholesterol levels, support cardiovascular and also build immunity.
+Query:
+----------------
+Enter your query: Suggest some good hair products
+
+System Response:
+-----------------
+Response: Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner, Argan-Liquid Gold Hair Spa, Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control
+Query:
+-----------------
+Enter your query: what is ginger oil
+
+System Response:
+-----------------
+Response: ginger oil is an essential oil that is extracted from the ginger root. It has a strong, pungent aroma and is used in a variety of applications, including aromatherapy, cooking, and medicine.
+
+```
