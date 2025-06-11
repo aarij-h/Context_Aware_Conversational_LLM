@@ -4,7 +4,7 @@ This repository contains a conversational retrieval system implemented using the
 
 # Approach
 
-- **Language Model (LLM):** The system uses GooglePalm as the language model, providing powerful language understanding capabilities.
+- **Language Model (LLM):** The system uses Cohere as the language model, providing powerful language understanding capabilities.
 
 - **Vector Store:** Qdrant is employed as the vector store for efficient storage and retrieval of document vectors.
 
