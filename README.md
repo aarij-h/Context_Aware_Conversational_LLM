@@ -24,13 +24,13 @@ This repository contains a conversational retrieval system implemented using the
 ```
 pip install -r requirements.txt
 ```
-2. Run the mail file:
+2. Run the main file:
 ```
-pip install -r requirements.txt
+python main.py
 ```
 3. Run the test file:
 ```
-pip install -r requirements.txt
+python test.py
 ```
 The application will run on ```http://localhost:5000```
 
